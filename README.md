@@ -5,6 +5,8 @@ A project to develop a micro service which facilitate Employee Management for sm
 * SpringBoot
 * ReactJS
 * MySQL
+* JPA
+* Hibernate
 
 ## Tools
 * Spring Tool Suite
