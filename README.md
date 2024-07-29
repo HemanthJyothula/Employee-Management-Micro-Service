@@ -1,2 +1,16 @@
-# Employee-Management-Micro-Service
-A project made to facilitate Employee Management for small to medium scale companies by using Spring Boot, ReactJS and MySQL
+# Employee Management Micro Service
+A project to develop a micro service which facilitate Employee Management for small to medium scale companies.
+
+## Technology
+* SpringBoot
+* ReactJS
+* MySQL
+* JPA
+* Hibernate
+
+## Tools
+* Spring Tool Suite
+* Postman Agent
+* Visual Studio Code
+* MySQL Command Line Client
+  
