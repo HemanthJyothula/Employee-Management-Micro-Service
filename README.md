@@ -7,6 +7,7 @@ A project to develop a micro service which facilitate Employee Management for sm
 * MySQL
 * JPA
 * Hibernate
+* Bootstrap
 
 ## Tools
 * Spring Tool Suite
