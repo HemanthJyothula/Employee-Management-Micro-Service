@@ -1,6 +1,5 @@
 import React, {Component} from 'react'
 import EmployeeService from '../services/EmployeeService';
-import 'bootstrap/dist/css/bootstrap.css';
 export default class ListEmployeeComponent extends Component
 {
     constructor(props)
